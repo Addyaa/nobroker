@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="37.591" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="To test the profile module" name="To validate tenant detail functionality of rental agreement section" time="37.412">
+<system-out><![CDATA[
+Given User should be logged in..............................................passed
+When User is on menu drop down and clicks on rental agreement button........passed
+And clicks on rental agreements with adhaar.................................passed
+And clicks on tenant details option.........................................passed
+And scrolls down to fill details and fills details..........................passed
+And clicks on save and proceed..............................................passed
+Then user gets navigated to next page of the form...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
